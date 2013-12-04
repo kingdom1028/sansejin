@@ -1,0 +1,86 @@
+@charset "utf-8";
+/* =============================================================================
+#     FileName: 专题页面
+#       Author: 赵欢磊
+#      Version: 0.0.1
+#   LastChange: 2013-02-16 13:41:43
+#      History: 
+============================================================================= */
+
+
+/* ================================= 品牌专区 =============================== */
+.brand { background:#FDDAED; padding-bottom:20px; }
+.fl{ float:left; display:inline-block;}
+.fr{ float:right; display:inline-block;}
+.fs18{ font-size:18px;}
+/*满屏广告 full_banner*/
+.full_banner{ width:100%; height:594px; overflow:hidden;}
+.full_banner_list_item0, .full_banner_list_item1, .full_banner_list_item2, .full_banner_list_item3{ width:100%;}
+.full_banner_list_item0{ height:73px; background:url(../images/brand/banner_bg1.jpg) center 0 no-repeat;}
+.full_banner_list_item1{ height:93px; background:url(../images/brand/banner_bg2.jpg) center 0 no-repeat;}
+.full_banner_list_item2{ height:94px; background:url(../images/brand/banner_bg3.jpg) center 0 no-repeat;}
+.full_banner_list_item3{ height:94px; background:url(../images/brand/banner_bg4.jpg) center 0 no-repeat;}
+.full_banner_list_item4{ height:69px; background:url(../images/brand/banner_bg5.jpg) center 0 no-repeat;}
+.full_banner_list_item5{ height:89px; background:url(../images/brand/banner_bg6.jpg) center 0 no-repeat;}
+.full_banner_list_item6{ height:82px; background:url(../images/brand/banner_bg7.jpg) center 0 no-repeat;}
+.content{ width:890px; margin:0 auto;}
+.content img{ display:block; padding:0; margin:0;}
+/*内容*/
+.main_bd{ background:#FFF8FB;}
+.pad_30{ padding:20px 30px;}
+.red_color{ color:#E0458F;}
+.box_p p{ line-height:25px; }
+.w345{ width:345px; height:215px;}
+.w545{ width:545px; padding-top:10px;}
+.w545 h3{ line-height:30px; font-weight:normal;}
+.w545 p{ line-height:25px;}
+/*tel*/
+.w900{ margin:0 auto; width:900px;}
+/*box5*/
+.box5_bd{ background:#fff4fa;}
+.w617{ width:617px;}
+.w273{ width:273px;}
+.w617 p{ padding:10px 10px 0 10px; line-height:21px;}
+.w617 p span{ font-weight:bold;}
+.fw{ font-weight:bold;}
+.pl_40{ padding-left:40px;}
+.pl_30{ padding-left:30px;}
+.list_box5 li{ float:left; width:252px;}
+.plr_30{ padding:0 30px;}
+.mlr_20{ margin:0 20px;}
+/*box6*/
+.box6_p{ padding:10px 0 10px 30px;}
+.gay_color{ color:#696969;}
+.box6_h3{ font-size:25px; line-height:30px; padding:30px 0;}
+.tc{ text-align:center;}
+.pt_20{ padding:20px 0 0 0; font-size:25px; line-height:30px;}
+.box6_h4{ line-height:25px; font-weight:normal; font-size:16px;}
+
+
+/* =========================== 养巢专题：产后妈妈专区 ======================== */
+.postnatal { background:#f6e5f6 url(../images/postnatal/postnatal_bg.png); padding-bottom:50px; }
+.postnatal .topicMain { background:url(../images/postnatal/postnatal_main.jpg) no-repeat center top; } 
+.postnatal .img { width:1000px; margin:0 auto; }
+.img img { display:block; }
+
+/* =========================== 养巢专题：青春养巢专区 ======================== */
+.youth { background:#ffecf3 url(../images/youth/youth_bg.png); padding-bottom:50px; }
+.youth .topicMain { background:url(../images/youth/youth_main.jpg) no-repeat center top; } 
+.youth .img { width:1000px; margin:0 auto; }
+
+/* =========================== 养巢专题：性福养巢专区 ======================== */
+.flirt { background:#ffecf3 url(../images/flirt/flirt_bg.png); padding-bottom:50px; }
+.flirt .topicMain { background:url(../images/flirt/flirt_main.jpg) no-repeat center top; }
+.flirt .img { width:1003px; margin:0 auto; }
+
+/* =========================== 视频 ======================== */
+.videoBox { height:600px; background:#180220 url(../images/lc2013/video_bg.jpg) no-repeat center top; text-align:center; }
+.videoInfo { width:999px; margin:0 auto; position:relative; }
+.video { width:480px; height:320px; overflow:hidden; position:absolute; top:106px; left:118px; }
+.video embed { margin-top:-30px; }
+.videoLink { width:180px; height:60px; display:block; position:absolute; top:530px; left:60px; text-indent:-9999px; }
+
+/* ===========================关于我们======================== */
+.about_wrap{margin:0 auto;background:#49023e url(../images/about/abou_bg.jpg) repeat-y center top;}
+.about_img{border:0;margin:0 auto;width:965px;background:#fdf3fe;}
+.about_foot{margin:0 auto;height:147px;background:#49023e url(../images/about/service.jpg) no-repeat center top;}

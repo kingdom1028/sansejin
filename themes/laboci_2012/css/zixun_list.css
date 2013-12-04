@@ -1,0 +1,66 @@
+.list_content{
+	width:960px;
+	height:auto;
+	background: url(../images/list_content.jpg) no-repeat top;
+}
+.list_main{
+	width:960px;
+	height:auto;
+	background-color: #fddfe9;
+}
+.list_bt{
+	width:960px;
+	height:52px;
+	background-image: url(../images/jiankang_05.jpg);
+}
+.list_content{
+	width:960px;
+	height:auto;
+	background: url(../images/list_content.jpg) no-repeat top;
+}
+.list_content ul{ width:894px; margin:0 auto;}
+.list_content li{
+	margin-top:15px;
+	border-bottom:1px dashed #000;
+	height: 25px;
+}
+.list_content .fenye{
+	width:960px;
+	text-align:center;
+	margin-top: 15px;
+}
+.list_content_box{
+	width:960px;
+	margin-top:15px;
+	height: 327px;
+}
+.list_content_box_zs{
+	width:435px;
+	float:left;
+	height: 327px;
+	margin-left: 15px;
+	background-image: url(../images/zs_bg.jpg);
+	display: block;
+}
+.list_content_box_zx{
+	width:435px;
+	float: right;
+	height: 327px;
+	margin-right: 15px;
+	background-image: url(../images/zx_bg.jpg);
+	display: block;
+}
+.list_content_box ul{
+	margin-top:60px;
+	width: 398px;
+	height: 235px;
+}
+.list_content_box ul li{
+	list-style:none;
+	margin-top:10px;
+	color:#84098c;
+	border-bottom:1px dashed #990099;
+}
+.jk_banner_two {
+	margin: 15px auto 15px auto;
+}

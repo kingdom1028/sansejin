@@ -1,0 +1,50 @@
+.display_none { display:none }
+.order_box { border:2px solid #5e9600; border-top:none; background:#f3f9ed; margin-top:-5px; }
+.order_box dl { width:700px; margin:0 auto; }
+.order_box h2 { color:#5e9600; font-size:14px; margin-bottom:10px; }
+.order_box dt { font-size:14px; color:#383838; font-weight:bold; }
+.order_box dt img { vertical-align:middle; }
+.order_box dd { padding:20px 15px; }
+.order_1 select { width:300px; margin-left:10px; }
+.order_2 p { margin-bottom:10px; color:#777; }
+.order_2 p span { float:left; width:65px; display:block; padding-right:20px; text-align:right; color:#444; }
+.order_2 p input { border:1px solid #a7a6aa; }
+.order_3 p { margin-bottom:10px; }
+.order_3 p textarea { width:510px; height:45px; border:1px solid #a7a6aa; margin-top:3px; }
+.top_info { width:600px; float:left; text-align:right; color:#DF8736; }
+.top_info a { padding:8px; color:#DF8736; line-height:22px; }
+.top_info a:hover { text-decoration:underline; }
+#order_form label { float: left; line-height: 22px; text-align: right; width: 85px; height:80px;font-weight: bold; }
+/* 在线订购(带购物车) */
+#order_form { width:886px; background:#fff; padding-bottom:50px; padding-top:10px }
+#order_form  .car_list{ padding:10px 10px;}
+#order_form  .car_list table{background: #ccc;}
+#order_form  .car_list td{background: #fff; line-height:22px; height:30px;}
+
+#order_form .left_title { text-align:right; font-size:14px; font-weight:bold; color:#006600; width:130px; line-height:25px; padding-right:6px; }
+#order_form .pg_out { float:left; color:#006600; width: auto!important; width: 60px; min-width:60px; padding: 3px; line-height:22px; text-overflow:ellipsis; white-space:nowrap; border:1px solid #ccc; margin:3px 3px; margin-left:0px; TEXT-DECORATION: none; text-align:center; }
+#order_form .pg_list A:hover { padding: 2px; border:2px solid #006600; }
+#order_form .g_list A:hover { padding: 2px; border:2px solid #006600; }
+#order_form .fb_list A:hover { padding: 2px; border:2px solid #ff0000; color:#ff0000; }
+#order_form .pg_over { float:left; color:#006600; width: auto!important; width: 60px; min-width:60px; padding: 2px; line-height:22px; text-overflow:ellipsis; white-space:nowrap; border:1px solid #ccc; margin:3px 3px; margin-left:0px; TEXT-DECORATION: none; border:2px solid #006600; background:url(../images/2010517/select_over.png) right bottom no-repeat; text-align:center; }
+*html #order_form .pg_over { position: relative; behavior: url("iepngfix.htc"); }
+#order_form .sg_list { float:left; clear:both; }
+#order_form .goods_num_all { float:left; padding-top:9px; padding-left:8px; }
+#order_form .goods_num { padding-left:5px; width:40px; height:23px; border:0px; font-size:13px; border-bottom:1px solid #ccc; }
+.display_none { display:none; }
+#order_form .left_title2 { text-align:right; line-height:22px; }
+#consignee_info input { border:1px solid #ccc; font-size:14px; line-height:23px; }
+#consignee_info textarea { border:1px solid #ccc; font-size:14px; line-height:23px; width:90%; height:50px; }
+#order_form .car_list { padding:10px 10px; }
+#order_form .car_list td { background: #fff; line-height:22px; height:30px; }
+<!--
+#order_form .car_list input { border:1px solid #ccc; text-align:center; }
+-->
+#order_form .fb_list li { cursor:pointer; clear:both; position:relative; background:#FFFFFF; list-style:none }
+#order_form .favourable_info { position:absolute; width:600px; }
+#order_form .favourable_info table { border:1px solid #ccc; border-left:0px; border-top:0px; background: #FFFFCC; color:#333333; text-align:left; cursor: auto; }
+#order_form .favourable_info td { line-height:22px; height:30px; border-left:1px solid #ccc; border-top:1px solid #ccc; }
+
+#order_form #car tr{ border:1px solid #ccc; border-right:none}
+#order_form #car td { padding:3px; border-right:1px solid #ccc; +border-right:1px solid #fff; _border-right:1px solid #fff;}
+

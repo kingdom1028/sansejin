@@ -1,0 +1,53 @@
+body,*,html{padding:0px; margin:0px; font-size:12px;}
+.main{background:url(../images/top_bj.jpg)top center no-repeat;}
+.home{width:1000px; margin:0 auto;}
+.top_nav{height:226px;}
+.collect{height:114px;}
+.collect a{color:#fff; text-decoration:none;}
+.tjsc{width: 89px; float:right; padding-top:50px; }
+.fangw {text-align: center; line-height:22px; height:22px;}
+.tianjia {
+    background: url("http://www.baifuni.net/Public/Images/scbz.jpg") repeat scroll 0% 0% rgb(37, 10, 63);
+    width: 78px;
+    height: 21px;
+    margin: 0px 0px 0px 10px;
+    display: block;
+    text-indent: -777em;
+}
+.nav{height:28px;}
+.nav ul{list-style:none; padding:0px; margin:0px;}
+.nav li{float:left; color:#fff; height:28px; line-height:28px; text-align:center;}
+.nav li a{display:block; line-height:28px; height:28px; text-align:center; font-size:15px; font-family: "Microsoft YaHei" ! important;  color:#fff;  text-decoration:none; display:block;}
+
+.on01 {height:28px;}
+.on01 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 97px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat 0px 0px;  TEXT-DECORATION: none}
+.on01 a:hover{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 97px; BACKGROUND: url(../images/nav.jpg) no-repeat 0px -28px;}
+.on02 {height:28px;}
+.on02 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 131px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat -97px 0px;  TEXT-DECORATION: none}
+.on02 a:hover{LINE-HEIGHT:28px;HEIGHT:28px; WIDTH: 131px; BACKGROUND: url(../images/nav.jpg) no-repeat -97px -28px; }
+.on03 {height:28px;}
+.on03 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 109px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat -228px 0px;  TEXT-DECORATION: none}
+.on03 a:hover{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 109px; BACKGROUND: url(../images/nav.jpg) no-repeat -228px -28px; }
+.on04 {height:28px;}
+.on04 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 109px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat -337px 0px;  TEXT-DECORATION: none}
+.on04 a:hover{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 109px; BACKGROUND: url(../images/nav.jpg) no-repeat -337px -28px; }
+.on05 {height:28px;}
+.on05 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 110px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat -446px 0px;  TEXT-DECORATION: none}
+.on05 a:hover{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 110px; BACKGROUND: url(../images/nav.jpg) no-repeat -446px -28px; }
+.on06 {height:28px;}
+.on06 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 146px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat -556px 0px;  TEXT-DECORATION: none}
+.on06 a:hover{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 146px; BACKGROUND: url(../images/nav.jpg) no-repeat -556px -28px; }
+.on07 {height:28px;}
+.on07 a{ LINE-HEIGHT: 28px; HEIGHT: 28px; WIDTH: 110px; DISPLAY: block; BACKGROUND: url(../images/nav.jpg) no-repeat -702px 0px;  TEXT-DECORATION: none}
+.on07 a:hover{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 110px; BACKGROUND: url(../images/nav.jpg) no-repeat -702px -28px; }
+.nav_act a{LINE-HEIGHT:28px;HEIGHT:28px;WIDTH: 97px; BACKGROUND: url(../images/nav.jpg) no-repeat 0px -28px;}
+
+.conter{margin:0 auto;}
+.conter .mar_con{width:812px; margin:0px auto;}
+.conter .mar_con h1{font-family: "Microsoft YaHei" ! important; font-size:30px; font-weight:normal; text-align:center; color:#383232; height:45px; line-height:45px; padding-top:20px;}
+.conter .mar_con .p_title{background:#e0e0e0; height:30px; line-height:30px; text-indent:2em; font-family: "Microsoft YaHei" ! important; font-size:17px; font-weight:normal;}
+.inputtxt{border:1px solid #b2b2b2; width:270px; height:25px;}
+.butcx{background:#636363; height:25px; border:1px solid #636363; color:#fff; width:50px;}
+
+.bot{color:#000;}
+.bot a{color:#000;}
